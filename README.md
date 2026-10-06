@@ -77,5 +77,5 @@ cd backend
 | GET | `/api/auth/profile/` | Bearer | Fetch profile |
 | PATCH | `/api/auth/profile/` | Bearer | Update profile |
 
-Author
+Author:
 Tejashwini Dhadekar
