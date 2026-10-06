@@ -76,3 +76,6 @@ cd backend
 | POST | `/api/auth/logout/` | Bearer | Blacklist refresh token |
 | GET | `/api/auth/profile/` | Bearer | Fetch profile |
 | PATCH | `/api/auth/profile/` | Bearer | Update profile |
+
+Author
+Tejashwini Dhadekar
