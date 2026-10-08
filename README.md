@@ -1,4 +1,4 @@
-#JobGenie-AI-Resume-Interview-Coach
+# JobGenie-AI-Resume-Interview-Coach
 
 A full-stack AI-powered interview coaching platform built as an MCA final-year project.
 
