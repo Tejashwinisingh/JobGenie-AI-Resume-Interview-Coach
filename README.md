@@ -1,4 +1,4 @@
-# ResumeIQ – AI Interview Coach
+#JobGenie-AI-Resume-Interview-Coach
 
 A full-stack AI-powered interview coaching platform built as an MCA final-year project.
 
@@ -34,10 +34,10 @@ ResumeIQ/
 | Unit | Module | Status |
 |---|---|---|
 | 1 | Authentication (Register, Login, JWT, Profile) | ✅ Complete |
-| 2 | Resume Upload & ATS Analysis | 🔜 Upcoming |
-| 3 | Mock Interview | 🔜 Upcoming |
-| 4 | Performance Reports | 🔜 Upcoming |
-| 5 | AI Coaching Tips | 🔜 Upcoming |
+| 2 | Resume Upload & ATS Analysis |  ✅ Complete |
+| 3 | Mock Interview |  ✅ Complete |
+| 4 | Performance Reports |  ✅ Complete |
+| 5 | AI Coaching Tips |  ✅ Complete |
 
 ## Getting Started
 
